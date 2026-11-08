@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 # Linktree 2.0 (2026)
 Este será um projeto voltado para a prática, em primeiro momento, de desenvolvimento com o framework/ecossistema  NextJS.
 
-##Getting Started
+## Getting Started
 
 First, run the development server:
 
