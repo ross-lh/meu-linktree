@@ -34,7 +34,7 @@ export default function Home() {
       </nav>
 
       <footer className="mt-auto pt-10 text-xs text-neutral-500">
-        © {new Date().getFullYear()} {profile.name}
+        © {"2026"} {profile.name}
       </footer>
     </main>
   );
