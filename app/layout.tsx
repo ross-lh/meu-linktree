@@ -6,11 +6,11 @@ const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PC AM5 — Links",
-  description: "Todas as peças para PC AM5 em um só lugar.",
+  title: "Peças PC — Links",
+  description: "Links de afiliado para hardware",
   openGraph: {
-    title: "PC AM5 — Links",
-    description: "Todas as peças para PC AM5 em um só lugar.",
+    title: "Hardware PC — Links",
+    description: "Todas as peças para o seu PC em um só lugar.",
     images: ["/avatar.jpg"],
   },
 };
