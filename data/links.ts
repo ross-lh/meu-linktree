@@ -12,7 +12,7 @@ export const profile = {
 
     { label: "SSD 2TB PC da NASA: Link de afiliado da Amazon", url: "https://link.amazon/B028TPwPh" },
     { label: "SSD 4TB (ou mais) PC da NASA: Link de afiliado da Amazon", url: "https://link.amazon/B0aZeLx12" },
-    { label: "SSD 2TB PC atual: Link de afiliado da Amazon", url: "https://link.amazon/B0010jyo8" },
+    { label: "SSD 2TB (Rafael): Link de afiliado da Amazon", url: "https://link.amazon/B0hoU8qKL" },
     
     { label: "Placa-mãe: Link de afiliado do MercadoLivre", url: "https://meli.la/2jmezzx" },
     { label: "Placa de vídeo: Link de afiliado do Amazon", url: "https://link.amazon/B04eBrso4" },
